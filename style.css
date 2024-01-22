@@ -1,0 +1,52 @@
+*,html {
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbar {
+    background-color: #333;
+    width: 100%;
+    height: 80px;
+    height: 10vh;
+    
+}
+
+.ul-navbar {
+    Display: flex;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+}
+
+.li-navbar {
+    list-style-type: none;
+    padding: 20px;
+    margin: 5px;
+    color: white;
+    font-size: 30px;
+}
+
+.image-nijika {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+}
+
+.nijika {
+    width: 512px;
+    height: 512px;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+}
+
+.footer-h1 {
+    color: black;
+}
